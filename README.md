@@ -1,5 +1,7 @@
 # Upgrade-Autonity-v0.12.3-prerelease 
 
+#To update Autonity to version 0.12.3-pre, you can follow the steps below:
+
 Clone the Autonity source code from GitHub:
 
     git clone https://github.com/autonity/autonity.git
